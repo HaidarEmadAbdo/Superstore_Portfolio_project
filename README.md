@@ -70,7 +70,7 @@ sub_category - discount - profit - profit_ratio - sales)
 ###
 ## Data Visualization
 ### Please visit: https://public.tableau.com/app/profile/haidar.abdo/viz/superstore_portfolio_project/Story1#1       
-##                                             to see the full Tableau story.
+### to see the full Tableau story with the conclusions and recommendations using interactive dashboards.
 
 
 
