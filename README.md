@@ -24,7 +24,7 @@
 
 ![1- showing raw data1](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/522e3ef7-d4d6-4b70-b6a0-ee8e82bafbe3) 
 ###
-
+![2- showing raw data2](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/79b8b499-ce8d-489f-8fda-a892e4678b68)
 
 ## **Explanation of the above files:**
 ### 1- "Raw Data" Folder: Containing the raw data of the project.
