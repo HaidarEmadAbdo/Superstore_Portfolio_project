@@ -62,17 +62,15 @@ sub_category - discount - profit - profit_ratio - sales)
 ###
 ### Showing the products that bring in the most profits, as well as the products that make the most losses, in SQL and Tableau:
 ###
-
-
-
-
-
-## **Explanation of the above files:**
-### 1- "Raw Data" Folder: Containing the raw data of the project.
-### 2- SQL file: Includes queries to extract tables that help us in analysis.
-### 3- A PowerPoint file containing pictures that were used in the story of the tableau.
-###    Please visit: https://public.tableau.com/app/profile/haidar.abdo/viz/superstore_portfolio_project/Story1#1
-###    to see our tableau story.
+![7- Showing the products that bring in the most profits, as well as the products that make the most losses](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/98e73ab2-0016-4462-9cf8-633df1bdef1e)
+###
+![7- Showing the products that bring in the most profits, as well as the products that make the most losses with tableau](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/5e41d86d-2812-4de4-be4b-0a1546b08751)
+### We can see that the printer "Canon image CLASS 2200 Advanced Copier" comes with a high profits By a big margin from the rest.
+### And the printer "Cubi fly cube X 3D Printer Double Head Print" brings the highest losses to the superstore and also by a large margin over the rest.
+###
+## Data Visualization
+### Please visit: https://public.tableau.com/app/profile/haidar.abdo/viz/superstore_portfolio_project/Story1#1       
+##                                             to see the full Tableau story.
 
 
 
