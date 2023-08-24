@@ -19,8 +19,11 @@
 ### The dataset to be used is from: **Data Visualization with Tableau Certificate.**
 ### performance Data Quality & Timeliness:
 ### This dataset contains data points that includes information such as customer names, product names, order IDs + order dates, ship dates, sales, discounts, profits and profit ratios.
+### Shwoing our raw data in SQL:
+###
 
 ![1- showing raw data1](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/522e3ef7-d4d6-4b70-b6a0-ee8e82bafbe3) 
+###
 
 
 ## **Explanation of the above files:**
