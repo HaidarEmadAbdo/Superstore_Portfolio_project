@@ -35,7 +35,11 @@ sub_category - discount - profit - profit_ratio - sales)
 ###
 ![3- showing data that we are going to use](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/5b8ae0c4-755b-4aaf-b93b-188c8ed992f9)
 
-### Showing the superstore profits per year:
+### Showing the superstore profits per year in SQL and Tableau:
+###
+![4- showing the profits for every year](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/e2a674bc-cb56-4394-b4a9-af4558276645)
+###
+![4- showing the profits for every year with tableau](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/6ba750de-adc3-4491-9328-b744f4716156)
 
 
 ## **Explanation of the above files:**
