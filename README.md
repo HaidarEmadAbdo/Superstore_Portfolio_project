@@ -35,6 +35,9 @@ sub_category - discount - profit - profit_ratio - sales)
 ###
 ![3- showing data that we are going to use](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/5b8ae0c4-755b-4aaf-b93b-188c8ed992f9)
 
+### Showing the superstore profits per year:
+
+
 ## **Explanation of the above files:**
 ### 1- "Raw Data" Folder: Containing the raw data of the project.
 ### 2- SQL file: Includes queries to extract tables that help us in analysis.
