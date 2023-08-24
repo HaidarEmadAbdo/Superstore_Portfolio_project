@@ -45,6 +45,14 @@ sub_category - discount - profit - profit_ratio - sales)
 ### Showing the relationship between discounts and profits in SQL:
 ###
 ![5- showing the relationship between discounts and profits](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/20bbdbe9-e56a-4271-b66c-2a1ca4b439f3)
+<h3> We can see that in general there is a kind of the inverse relationship between profits and discount, and when the customers sell in zero discount may be they sell a little amount of product but if
+we sum it we see that they bring the big profits \$319890\ and the sum profits of all the other sells is \$-34555\ which mean that the superstore will loose without the zero discount sells.</h3>
+### 
+### Showing the top 20 profit customers and their discounts ratios in SQL and Tableau:
+###
+
+###
+
 
 
 ## **Explanation of the above files:**
