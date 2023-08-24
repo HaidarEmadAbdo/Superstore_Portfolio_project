@@ -40,6 +40,9 @@ sub_category - discount - profit - profit_ratio - sales)
 ![4- showing the profits for every year](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/e2a674bc-cb56-4394-b4a9-af4558276645)
 ###
 ![4- showing the profits for every year with tableau](https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/assets/139217562/6ba750de-adc3-4491-9328-b744f4716156)
+### We can see that there is an increase in profits every year which is a good indicator .
+###
+### Showing the relationship between discounts and profits in SQL and Tableau:
 
 
 ## **Explanation of the above files:**
