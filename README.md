@@ -17,7 +17,7 @@
 
 ## **Data Source:**
 ### The dataset to be used is from: **Data Visualization with Tableau Certificate.**
-### performance Data Quality & Timeliness:
+### Performance Data Quality & Timeliness:
 ### This dataset contains data points that includes information such as customer names, product names, order IDs + order dates, ship dates, sales, discounts, profits and profit ratios.
 ### Shwoing our raw data in SQL:
 ###
