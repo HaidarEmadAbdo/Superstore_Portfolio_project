@@ -1,4 +1,4 @@
-<img src="https://www.nbc.com/sites/nbcunbc/files/files/styles/640x360/public/images/2017/3/24/Superstore-S2-AltAboutImage-1920x1080-KO.jpg?itok=vpUxjouq" width="100%" alt="Superstore cast">
+<img src="https://github.com/HaidarEmadAbdo/Superstore_Portfolio_project/blob/main/supeerstore%20project%20image.jpg" width="100%" alt="Superstore cast">
 
 # **Superstore_Portfolio_project**
 
